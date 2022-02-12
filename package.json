@@ -1,6 +1,7 @@
 {
   "name": "datocms-plugin-monaco",
   "version": "0.0.4",
+  "license": "MIT",
   "homepage": "https://github.com/BasixKOR/datocms-monaco-plugin",
   "description": "Monaco editor for DatoCMS",
   "keywords": [
