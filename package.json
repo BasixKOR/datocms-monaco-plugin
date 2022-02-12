@@ -1,6 +1,6 @@
 {
   "name": "datocms-plugin-monaco",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/BasixKOR/datocms-monaco-plugin",
   "description": "Monaco editor for DatoCMS",
   "keywords": [
@@ -41,7 +41,7 @@
   "datoCmsPlugin": {
     "title": "Monaco Editor",
     "previewImage": "docs/preview.png",
-    "coverImage": "",
+    "coverImage": "docs/cover.png",
     "entryPoint": "dist/index.html",
     "permissions": []
   },
