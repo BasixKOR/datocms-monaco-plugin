@@ -1,6 +1,6 @@
 {
   "name": "datocms-plugin-monaco",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "homepage": "https://github.com/BasixKOR/datocms-monaco-plugin",
   "description": "Monaco editor for DatoCMS",
@@ -16,7 +16,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "prepack": "MSYS2_ARG_CONV_EXCL='--base=' yarn build --base='/dist/'"
+    "prepack": "yarn build"
   },
   "files": [
     "dist/**",
