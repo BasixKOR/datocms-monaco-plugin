@@ -813,9 +813,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"datocms-monaco-plugin@workspace:.":
+"datocms-plugin-monaco@workspace:.":
   version: 0.0.0-use.local
-  resolution: "datocms-monaco-plugin@workspace:."
+  resolution: "datocms-plugin-monaco@workspace:."
   dependencies:
     "@monaco-editor/react": ^4.3.1
     "@types/lodash": ^4.14.178
